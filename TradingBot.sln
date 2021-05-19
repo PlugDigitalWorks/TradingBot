@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WebUIJs", "WebUIJs\WebUIJs.njsproj", "{B7ED0487-73D1-4262-9017-4B7C23A43BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7ED0487-73D1-4262-9017-4B7C23A43BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7ED0487-73D1-4262-9017-4B7C23A43BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7ED0487-73D1-4262-9017-4B7C23A43BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7ED0487-73D1-4262-9017-4B7C23A43BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED7C0883-02EB-41D6-ADA1-5F1B0C0D172D}
+	EndGlobalSection
+EndGlobal
