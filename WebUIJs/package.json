@@ -1,9 +1,0 @@
-{
-  "name": "web-uijs",
-  "version": "0.0.0",
-  "description": "WebUIJs",
-  "main": "server.js",
-  "author": {
-    "name": ""
-  }
-}
